@@ -15,6 +15,7 @@ export const HOME_PAGE = gql`
 export const MOIVE_DETAILS = gql`
     query getMovieDetails($movieId: Int!){
         movie(id: $movieId){
+            id
             medium_cover_image
             title
             rating
@@ -23,6 +24,7 @@ export const MOIVE_DETAILS = gql`
             genres
         }
         suggestions(id: $movieId){
+            id
             medium_cover_image
             title
             rating
