@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/movieql-client/static/js/main.bac473ac.chunk.js",
+    "main.js.map": "/movieql-client/static/js/main.bac473ac.chunk.js.map",
+    "runtime-main.js": "/movieql-client/static/js/runtime-main.dc2cadfe.js",
+    "runtime-main.js.map": "/movieql-client/static/js/runtime-main.dc2cadfe.js.map",
+    "static/js/2.30861721.chunk.js": "/movieql-client/static/js/2.30861721.chunk.js",
+    "static/js/2.30861721.chunk.js.map": "/movieql-client/static/js/2.30861721.chunk.js.map",
+    "index.html": "/movieql-client/index.html",
+    "precache-manifest.54beec502cae04fadf74ae0e8c8185ed.js": "/movieql-client/precache-manifest.54beec502cae04fadf74ae0e8c8185ed.js",
+    "service-worker.js": "/movieql-client/service-worker.js",
+    "static/js/2.30861721.chunk.js.LICENSE.txt": "/movieql-client/static/js/2.30861721.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc2cadfe.js",
+    "static/js/2.30861721.chunk.js",
+    "static/js/main.bac473ac.chunk.js"
+  ]
+}
